@@ -23,3 +23,8 @@
 1. Consider best practices for software development workflow.  Track your work with version control like git.  Check with your recruiter before you publish information about a company's take-home challenge on GitHub or similar sites, though.  
 
 1. Follow submission instructions. Make sure you understand the format the company wants your submission in and when they want it by (time and day).
+
+
+### Sample Rubric
+
+(Sample Rubric)[https://docs.google.com/document/d/1NYr6nu0rL89AKTL_43gEQEg2oydSp2ezva3RhGvY8Ws/edit?usp=sharing]
